@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "97XZJnTs8oX550STk+HxFL1H2xVPrBlcbemI7N7AdWs8G+JUTvI+yGJoRuR+yM/cXXKc5s68mPcBKnDyaAUGEw==",
+  "success": true,
+  "projectFilePath": "/Users/travisback/Library/Mobile Documents/com~apple~CloudDocs/Repository/CSharp_Day003_TreasureIsland/CSharp_Day003_TreasureIsland/CSharp_Day003_TreasureIsland.csproj",
+  "expectedPackageFiles": [
+    "/Users/travisback/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/travisback/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/travisback/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
